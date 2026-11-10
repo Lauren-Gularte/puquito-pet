@@ -1,0 +1,15 @@
+PUQUITO PET — ARQUIVO DE AJUDA
+
+Descrição do projeto
+O Puquito Pet é uma aplicação web fictícia desenvolvida em HTML sem Style para fins acadêmicos de cumprir a entrega do projeto fase 1 da disciplina de Fundamentos de Sistemas Web do curso de Análise e Desenvolvimento de Sistemas da PUCRS.
+A aplicação desenvolvida apresenta produtos e serviços de um pet shop voltado para tutores de cães e gatos seguindo as funcionalidades exigidas.
+Funcionalidades da aplicação web
+Cabeçalho: apresenta a logo, o nome do pet shop, o slogan e o menu principal.
+Navegação: permite acessar diretamente as categorias de produtos e serviços por meio dos links do menu e das imagens dos cards.
+Acessórios: categoria que apresenta dois produtos com imagens, descrições e preços.
+Rações: categoria que apresenta duas opções de alimentos para cães e gatos, com imagens, descrições e preços.
+Higiene e limpeza: categoria que apresenta dois produtos com imagens, descrições e preços.
+Serviços: categoria que apresenta as opções de banho e tosa, com valores diferenciados para serviços com e sem tele-busca.
+Rodapé: reúne informações de localização, contato, navegação e identificação acadêmica do projeto.
+Créditos das imagens
+As imagens dos produtos utilizadas neste projeto foram obtidas em páginas de produtos disponíveis na internet e são utilizadas exclusivamente para fins acadêmicos, sem finalidade comercial.
